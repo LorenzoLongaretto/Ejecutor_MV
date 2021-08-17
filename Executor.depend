@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1622583637 source:c:\users\loren\desktop\facu\arquitectura\executor_virtual_machine\disassembler.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"disassembler.h"
+
+1619222095 c:\users\loren\desktop\facu\arquitectura\executor_virtual_machine\disassembler.h
+
+1619219977 source:c:\users\chalo\documents\github\executor_virtual_machine\disassembler.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"disassembler.h"
+
+1619217402 c:\users\chalo\documents\github\executor_virtual_machine\disassembler.h
+
+1619219905 source:c:\users\chalo\documents\github\executor_virtual_machine\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"disassembler.h"
+
+1622583999 source:c:\users\loren\desktop\facu\arquitectura\executor_virtual_machine\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	"disassembler.h"
+
+1622583637 source:f:\facu-backup\executor_vm\disassembler.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"disassembler.h"
+
+1619222095 f:\facu-backup\executor_vm\disassembler.h
+
+1622583999 source:f:\facu-backup\executor_vm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	"disassembler.h"
+
+1622583637 source:f:\facu-backup\executor_vm\ejecutor_mv\disassembler.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"disassembler.h"
+
+1619222095 f:\facu-backup\executor_vm\ejecutor_mv\disassembler.h
+
+1622583999 source:f:\facu-backup\executor_vm\ejecutor_mv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	"disassembler.h"
+
